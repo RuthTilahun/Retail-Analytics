@@ -24,3 +24,9 @@ Screenshots for 2–3 key visuals
 “How to reproduce” (exact commands to run SQL)
 
 Assumptions, limitations, and next steps
+
+Git commands
+git init
+git add .
+git commit -m "chore: scaffold project structure"
+git push
