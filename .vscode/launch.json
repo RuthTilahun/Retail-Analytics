@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "simulate_orders.py",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/python/simulate_orders.py",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal"
+    }
+  ]
+}
+

@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": ".venv/Scripts/python.exe",
+  "editor.formatOnSave": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "sqlfluff.linter.executablePath": "sqlfluff",
+  "sqlfluff.dialect": "postgres"
+}
